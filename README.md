@@ -1,10 +1,10 @@
-# The DAO
+# DAO
 ## A next-generation decentralized organization that coordinates the resources of a community (human and capital) to sustainably deliver value for members.
 
 **Authors**
 DAO Community & Friends
 
-Join the discussion on Discord: https://discord.gg/NChJK5N
+Join the discussion on Telegtram: https://t.me/sdaocash
 
 ---
 
