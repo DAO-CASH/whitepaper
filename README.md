@@ -2,7 +2,7 @@
 ## A next-generation decentralized organization that coordinates the resources of a community (human and capital) to sustainably deliver value for members.
 
 **Authors**
-DAO Community & Friends
+Tellbird
 
 Join the discussion on Telegtram: https://t.me/sdaocash
 
@@ -10,7 +10,7 @@ Join the discussion on Telegtram: https://t.me/sdaocash
 
 ## Abstract
 
-The DAO is a decentralized autonomous organization designed to sustainably develop a diversified portfolio of crypto-assets and accrue value for DAO members. It will be a clean capital pool where members only perform one vote to authorize a mandate that is executed by sub-DAOs known as “leagues” using the Aragon framework. During the life of a mandate, leagues perform all the standard work that an investment fund would require to be professionally managed over time, leveraging a decentralized global community where possible and allowing authorized, competent teams to self-organize and be appropriately remunerated when they deliver value. Leagues are able to distribute rewards based on coherent reputation-weighted peer-review using the SourceCred framework. Individuals can join the DAO at any time by buying DAO tokens, subject to a bonding curve to maintain incentive-alignment with risk profile. Members can exit the DAO at any time by selling DAO tokens via the same mechanism, thereby offering individual liquidity while ensuring security for members. The capital pool is managed through inflation and burning mechanisms: portfolio projects receive investment as newly-minted DAO tokens, and DAO tokenholders can always burn the DAO token against the bonding curve to obtain the underlying capital (ETH, WBTC, etc.) less a liquidity discount. This enables the DAO token to be a ‘stabler’ coin, collateralized by an underlying basket of high quality crypto-assets.
+DAO is a decentralized autonomous organization designed to sustainably develop a diversified portfolio of crypto-assets and accrue value for DAO members. It will be a clean capital pool where members only perform one vote to authorize a mandate that is executed by sub-DAOs known as “leagues” using the Aragon framework. During the life of a mandate, leagues perform all the standard work that an investment fund would require to be professionally managed over time, leveraging a decentralized global community where possible and allowing authorized, competent teams to self-organize and be appropriately remunerated when they deliver value. Leagues are able to distribute rewards based on coherent reputation-weighted peer-review using the SourceCred framework. Individuals can join the DAO at any time by buying DAO tokens, subject to a bonding curve to maintain incentive-alignment with risk profile. Members can exit the DAO at any time by selling DAO tokens via the same mechanism, thereby offering individual liquidity while ensuring security for members. The capital pool is managed through inflation and burning mechanisms: portfolio projects receive investment as newly-minted DAO tokens, and DAO tokenholders can always burn the DAO token against the bonding curve to obtain the underlying capital (ETH, WBTC, etc.) less a liquidity discount. This enables the DAO token to be a ‘stabler’ coin, collateralized by an underlying basket of high quality crypto-assets.
 
 ## Principles
 
