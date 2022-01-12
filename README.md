@@ -1,10 +1,10 @@
 # DAO
-## A next-generation decentralized organization that coordinates the resources of a community (human and capital) to sustainably deliver value for members.
+## DAO is highly consistent with BCH’s spiritual core,the BCH community always had decentralized genes.
 
 **Authors**
 Tellbird
 
-Join the discussion on Telegtram: https://t.me/sdaocash
+Join the discussion on Telegtram: https://t.me/daocashorg
 
 ---
 
@@ -14,7 +14,7 @@ DAO is a decentralized autonomous organization designed to sustainably develop a
 
 ## Principles
 
-As with any organization that is ['built to last'](http://www.wikisummaries.org/wiki/Built_to_Last), the DAO sets forth a set of inalienable principles that guides overall strategy along with the individual activities of members and related leagues.
+As with any organization that is, the DAO sets forth a set of inalienable principles that guides overall strategy along with the individual activities of members and related leagues.
 
 ### Clean distributed capital pool open to all
 
